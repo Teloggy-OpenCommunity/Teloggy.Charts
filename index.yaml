@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-microservices:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-10T23:37:26.240852927Z"
+    description: A Helm chart for Kubernetes
+    digest: be5a78dfe4a27eb7b11e1a46a2e75fa8aef8c06464bb68d6c97f97cea082020c
+    name: chart-microservices
+    type: application
+    urls:
+    - https://github.com/Teloggy-OpenCommunity/Teloggy.Charts/releases/download/chart-microservices-0.1.0/chart-microservices-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-10T23:37:26.240863556Z"
