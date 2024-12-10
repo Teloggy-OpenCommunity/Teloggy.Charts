@@ -1,0 +1,2 @@
+# Teloggy.Charts
+Public Charts
